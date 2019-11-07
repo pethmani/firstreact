@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f05016c4.chunk.css",
-    "main.js": "/static/js/main.730c1e93.chunk.js",
-    "main.js.map": "/static/js/main.730c1e93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cff59e7d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cff59e7d.js.map",
-    "static/css/2.0624914a.chunk.css": "/static/css/2.0624914a.chunk.css",
-    "static/js/2.162743ee.chunk.js": "/static/js/2.162743ee.chunk.js",
-    "static/js/2.162743ee.chunk.js.map": "/static/js/2.162743ee.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.854024dcb872be4f2b97a05cd051fc77.js": "/precache-manifest.854024dcb872be4f2b97a05cd051fc77.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.f05016c4.chunk.css.map": "/static/css/main.f05016c4.chunk.css.map"
+    "main.css": "/pethmani/firstreact/static/css/main.f05016c4.chunk.css",
+    "main.js": "/pethmani/firstreact/static/js/main.7fda3785.chunk.js",
+    "main.js.map": "/pethmani/firstreact/static/js/main.7fda3785.chunk.js.map",
+    "runtime-main.js": "/pethmani/firstreact/static/js/runtime-main.761af9c2.js",
+    "runtime-main.js.map": "/pethmani/firstreact/static/js/runtime-main.761af9c2.js.map",
+    "static/css/2.0624914a.chunk.css": "/pethmani/firstreact/static/css/2.0624914a.chunk.css",
+    "static/js/2.162743ee.chunk.js": "/pethmani/firstreact/static/js/2.162743ee.chunk.js",
+    "static/js/2.162743ee.chunk.js.map": "/pethmani/firstreact/static/js/2.162743ee.chunk.js.map",
+    "index.html": "/pethmani/firstreact/index.html",
+    "precache-manifest.3c0c1248a0409adc181fa8861d6defea.js": "/pethmani/firstreact/precache-manifest.3c0c1248a0409adc181fa8861d6defea.js",
+    "service-worker.js": "/pethmani/firstreact/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/pethmani/firstreact/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.f05016c4.chunk.css.map": "/pethmani/firstreact/static/css/main.f05016c4.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cff59e7d.js",
+    "static/js/runtime-main.761af9c2.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.162743ee.chunk.js",
     "static/css/main.f05016c4.chunk.css",
-    "static/js/main.730c1e93.chunk.js"
+    "static/js/main.7fda3785.chunk.js"
   ]
 }
